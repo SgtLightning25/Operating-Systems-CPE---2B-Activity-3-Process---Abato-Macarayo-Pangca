@@ -1,0 +1,4 @@
+Source codes are located in Operating Systems/src/UI
+
+The code uses xml which downloads a library in the IDE called "Maven Dependencies"
+XML file located at Operating Systems/target/classes/META-INF/maven/SocketChatApp/SocketChatApp
